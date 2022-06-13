@@ -12,8 +12,8 @@
     line-height: 106%;
 }
 
-/* 480 */
-@media screen and (max-width: 480px) {
+/* 520 */
+@media screen and (max-width: 520px) {
   .cover__title {
     max-width: 288px;
     font-size: 32px;
