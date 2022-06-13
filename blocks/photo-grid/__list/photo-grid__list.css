@@ -1,7 +1,6 @@
 .photo-grid__list {
   margin: 0;
   padding: 0;
-  display: grid;
   list-style: none;
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(284px, 1fr));
